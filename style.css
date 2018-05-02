@@ -701,7 +701,7 @@ textarea[placeholder] {
   border-top-left-radius: 1rem;
   border-top-right-radius: 1rem;
   border-bottom: 2px solid #ffee58;
-  animation: down 8s infinite;
+  animation: down 8s linear;
   transition: all .8s; }
   @media (max-width: 75em) {
     #cut-port {
